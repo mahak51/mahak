@@ -1,2 +1,3 @@
 # mahak
-first git repository
+first git repository.
+author- mahak
